@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my completion of the Flickr API assignment from The Odin Project.
 
-Things you may want to cover:
+The goal was to create an application that accepts a User ID and returns the user's recent photos. It was my first experience playing with external APIs.
 
-* Ruby version
+Learn more about the assignment:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/using-an-api
