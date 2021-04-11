@@ -7,6 +7,8 @@ ruby '2.7.0'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 # Flickr API
 gem 'flickr', '~> 2.0', '>= 2.0.2'
+# Figaro
+gem "figaro"
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
